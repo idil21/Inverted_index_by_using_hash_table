@@ -1,0 +1,1 @@
+# Inverted_index_by_using_hash_table
